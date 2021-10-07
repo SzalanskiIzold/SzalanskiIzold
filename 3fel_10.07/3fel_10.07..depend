@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633591924 source:d:\izolda xib\3fel_10.07.\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
