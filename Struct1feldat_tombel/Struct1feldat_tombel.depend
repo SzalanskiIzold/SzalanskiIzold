@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642490608 source:d:\izolda xib\struct1feldat_tombel\main.cpp
+	<iostream>
+	<fstream>
+
