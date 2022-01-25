@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643095917 source:d:\izolda xib\divide_et_impera_2022jan25_2feladat\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
