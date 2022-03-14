@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647269051 source:d:\documents\informatika\grafok_1feladat\main.cpp
+	<iostream>
+	<fstream>
+
