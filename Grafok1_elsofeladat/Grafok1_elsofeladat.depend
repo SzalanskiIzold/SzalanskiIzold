@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647328820 source:d:\izolda xib\grafok1_elsofeladat\main.cpp
+	<iostream>
+	<fstream>
+
