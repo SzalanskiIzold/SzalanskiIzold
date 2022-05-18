@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634828828 source:d:\documents\informatika\hazifeladat_2\main.cpp
+	<iostream>
+	<fstream>
+
